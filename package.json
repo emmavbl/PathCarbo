@@ -1,0 +1,17 @@
+{
+  "name": "pathcarbo",
+  "version": "0.0.0",
+  "displayName": "PathCarbo",
+  "description": "Fun and modulable GPS package.",
+  "keywords": [
+    "pathfinding",
+    "mini-map"
+  ],
+  "author": {
+    "name": "Emma Vodable",
+    "email": "vodableemma@gmail.com",
+    "url": "https://www.emmavodable.com"
+  },
+  "type": "sample",
+  "hideInEditor": false
+}
